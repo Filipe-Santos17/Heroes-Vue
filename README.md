@@ -1,2 +1,1 @@
-# Heroes-Vue
-For Fun
+For fun
